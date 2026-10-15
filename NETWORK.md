@@ -1,17 +1,29 @@
-# Zion AI Energy Sentinel — Zion App Network
+# Zion AI Energy Sentinel — static concept
 
-Zion AI Energy Sentinel — data-center energy & cooling analytics: PUE tracking and thermal anomaly detection. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
+A planning concept for reviewing facility energy evidence, not a live monitoring system.
 
-- 🔗 Live app: [https://ziontechgroup.com/zion-ai-energy-sentinel/](https://ziontechgroup.com/zion-ai-energy-sentinel/)
-- 🏠 Category: [Cost, FinOps & Cloud](https://github.com/Zion-support/zion-network/blob/main/network/cost-finops-cloud.md)
+## Capability status
+The inspected files contain no sensor ingestion, PUE calculation runtime, anomaly detector, forecasting model or alert delivery. No measured efficiency or carbon reduction is established.
 
-## Related apps in the network
+Use synthetic or public data. This page has no upload, account connection, live monitoring, automatic alerts or AI execution. It does not provide legal advice, safety certification or a guaranteed outcome.
 
-- [Zion AI Energy Optimizer](https://github.com/Zion-support/zion-ai-energy-optimizer) — cloud cost and carbon optimization
-- [AI Carbon Tracker](https://github.com/Zion-support/ai-carbon-tracker) — carbon tracking
-- [Zion AI Green Scheduler](https://github.com/Zion-support/zion-ai-green-scheduler) — low-carbon workload scheduling
-- [Green Cloud Picker](https://github.com/Zion-support/green-cloud-picker) — carbon-aware region advisor
-- [Zion AI Capacity Planner](https://github.com/Zion-support/zion-ai-capacity-planner) — AI capacity planning
+## Five-language page candidates
+- [English](https://ziontechgroup.com/zion-ai-energy-sentinel/)
+- [Português (Brasil)](https://ziontechgroup.com/zion-ai-energy-sentinel/pt/)
+- [Español](https://ziontechgroup.com/zion-ai-energy-sentinel/es/)
+- [Français](https://ziontechgroup.com/zion-ai-energy-sentinel/fr/)
+- [Deutsch](https://ziontechgroup.com/zion-ai-energy-sentinel/de/)
 
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+These routes are proposed source paths, not a live publication claim. Native-language and browser review remain pending.
+
+## Related concepts
+- [Zion AI Contract Guardian](https://ziontechgroup.com/zion-ai-contract-guardian/) · [source](https://github.com/Zion-support/zion-ai-contract-guardian)
+- [Agent SLA Monitor](https://ziontechgroup.com/agent-sla-monitor/) · [source](https://github.com/Zion-support/agent-sla-monitor)
+
+## Network navigation
+- [Master directory](https://ziontechgroup.com/zion-app-network/)
+- [Homepage](https://ziontechgroup.com/)
+- [Discovery](https://ziontechgroup.com/discovery/)
+
+## Evidence and release gate
+Static source inspection only. No AI, live telemetry, delivery, legal, safety or security certification. Re-read current file hashes before applying. All three repositories must publish together to avoid broken locale links. Do not alter the website manual-only deployment hold. No main push, merge, deploy, form submission, booking or background automation is authorized by this review pack.
